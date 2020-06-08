@@ -1,0 +1,10 @@
+---- Informações ----
+O start do Server e a pasta resources está na pasta "server-data".
+---------------------------------------------------------------------------------
+Caso você procure scripts para o vRP estarei deixando o Github do Sighmir.
+Se puderem doar para ele para está ajudando e motivando ele a trazer mais scripts
+ficarei muito agradecido.Valeu ae Galera.
+https://github.com/Sighmir?tab=repositories
+---------------------------------------------------------------------------------
+Obs: O nome da pasta do server não pode ter espaço por exemplo: "Server vRP" se
+tiver o run não irá pegar por isso sempre deixe o nome junto.

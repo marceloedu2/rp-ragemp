@@ -1,0 +1,3 @@
+Fri Oct 27 03:45:20 2017 => 1 fined 31 the amount of 1000 for Roubo
+Fri Oct 27 04:48:45 2017 => 1 fined 31 the amount of 1000 for Alta Velocidae
+Fri Oct 27 21:13:27 2017 => 1 fined 34 the amount of 100 for Roubo

@@ -1,0 +1,13 @@
+Fri Oct 27 03:44:28 2017 => 1 cuffed 31
+Fri Oct 27 03:44:30 2017 => 1 cuffed 31
+Fri Oct 27 03:44:31 2017 => 1 cuffed 31
+Fri Oct 27 03:44:32 2017 => 1 cuffed 31
+Fri Oct 27 03:45:35 2017 => 1 cuffed 31
+Fri Oct 27 04:05:41 2017 => 1 cuffed 31
+Fri Oct 27 04:05:44 2017 => 1 cuffed 31
+Fri Oct 27 04:05:52 2017 => 1 jailed 31 for 15 minutes
+Fri Oct 27 04:06:21 2017 => 1 freed 31 from a 15 minutes sentence
+Fri Oct 27 04:06:36 2017 => 1 freed 31 from a 15 minutes sentence
+Fri Oct 27 04:06:48 2017 => 1 freed 31 from a 15 minutes sentence
+Fri Oct 27 04:49:54 2017 => 1 jailed 31 for 1 minutes
+Fri Oct 27 04:50:06 2017 => 1 freed 31 from a 1 minutes sentence
