@@ -1,7 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-# Ide config
-.idea
-
-# Sensitive Files
-server-data/server.cfg
