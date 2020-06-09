@@ -1,0 +1,55 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies . functions is the functions folder for firebase functions
+/node_modules
+/functions/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+/.cache
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# rage files and folders
+/bridge
+node.dll
+server.exe
+packages
+BugTrap-x64.dll
+/bin
+/client_packages
+/dotnet
+linux_x64.tar.gz
+ragemp-server.exe
+maps/
+plugins/
+yarn.lock
