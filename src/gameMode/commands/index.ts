@@ -9,7 +9,3 @@ mp.events.addCommand('armor', player => {
 mp.events.addCommand('kill', player => {
   player.health = 0
 })
-function setArmour(player: PlayerMp) {
-    player.armour = 50;
-}
-mp.events.addCommand('armour', setArmour);
