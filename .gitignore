@@ -54,7 +54,6 @@ ragemp-server.exe
 bin/enc.dat
 bin/loader.mjs
 client_packages/
-conf.json
 dotnet/
 maps/
 plugins/
