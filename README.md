@@ -1,4 +1,4 @@
-"# ragemp-typescript" 
+"# TavernRP-RageMP" 
 
 ### Installing
 
@@ -6,6 +6,8 @@ install npm modules
 
 ```
 npm install
+or
+yarn
 ```
 
 
@@ -13,6 +15,8 @@ npm install
 
 ```
 npm start
+or
+yarn start
 ```
 
 open server.exe and enjoy!
