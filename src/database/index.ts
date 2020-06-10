@@ -1,5 +1,5 @@
 import { createConnection } from 'typeorm'
 
-createConnection().catch((error) => {
+createConnection().catch(error => {
   console.log(error)
 })

@@ -47,7 +47,6 @@ bt.dat
 packages
 BugTrap-x64.dll
 /bin
-/client_packages
 /dotnet
 linux_x64.tar.gz
 ragemp-server.exe
