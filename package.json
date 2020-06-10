@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc -w",
+    "build": "tsc",
     "dev": "ts-node-dev --inspect --transpileOnly src",
     "docker": "docker-compose up db",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
@@ -15,7 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "mongodb": "^3.5.8",
     "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.25"
   },
   "devDependencies": {
