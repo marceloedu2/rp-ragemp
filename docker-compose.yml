@@ -1,0 +1,19 @@
+version: '3.3'
+
+networks:
+  taverna-network:
+    driver: bridge
+
+services:
+  db:
+    build: .
+    image: library/mysql:5.7.30
+    ports:
+      - '3306:3306'
+    volumes:
+      - .:/home/node/mysql
+    environment:
+      - MYSQL_USER=root
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=gta5
+    container_name: taverna_mysql

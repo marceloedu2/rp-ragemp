@@ -4,12 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc -w",
+    "build": "tsc -w",
+    "dev": "ts-node-dev --inspect --transpileOnly src",
+    "docker": "docker-compose up db",
+    "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1",
+    "typeorm": "^0.2.25"
+  },
   "devDependencies": {
     "@types/ragemp-s": "https://github.com/CocaColaBear/types-ragemp-s/tarball/master",
     "@typescript-eslint/eslint-plugin": "^3.2.0",
