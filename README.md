@@ -1,4 +1,4 @@
-"# TavernRP-RageMP" 
+"# RP-RageMP" 
 
 ### Installing
 
